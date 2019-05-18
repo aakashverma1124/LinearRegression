@@ -4,4 +4,4 @@ In this repo, a simple implementation of Linear Regression is shown using Diabet
 
 <b>Notebook:</b> Diabetes_Datasets.ipynb<br>
 <b>.csv Files:</b> diabetes_training_datasets.csv and diabetes_testing_datasets.csv<br><br>
-* Some key points are also available on <b>Linear Regression.</b>
+* Some key points are also available on <b>Linear Regression</b> in <b>LinearRegressionNotes.docs</b>
